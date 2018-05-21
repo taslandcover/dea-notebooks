@@ -19,5 +19,7 @@ Maybe add here?
    :maxdepth: 1
 
    GettingStartedWithITEM.ipynb
-   GettingStartedWithLandSats5-7-8.ipynb
-   Landsats5-7-8-PQ.ipynb
+   GettingStartedWithHLTC.ipynb
+   GettingStartedWithLandsat5-7-8.ipynb
+   Landsat5-7-8-PQ.ipynb
+   Landsat5-7-8-FC.ipynb
