@@ -41,7 +41,7 @@ The basic structure of this repository is designed to keep 'all' of the DEA Jupy
 * `Working branches <https://github.com/GeoscienceAustralia/dea-notebooks/branches>`_: these are named using the owner's name as the branch name (e.g. ``ClaireK``, ``BexDunn``). These are the working spaces for people and essentially your own place to play around with. The notebooks here do not need to be pretty or even finished. It's just a place to keep everything together. It also means that if you want to collaborate on a working version of a notebook, you can easily find and share notebooks.
 
 Getting started with DEA notebooks
-----------------------------------
+-----------------------------------
 
 To start contributing to the DEA notebooks page, first read through the `Publishing finished notebooks`_ section to ensure that your notebook meets all the metadata and formatting requirements. This should only take a few minutes, and ensures that all notebooks are thoroughly documented so that they can be understood by all users, and rendered correctly on the `DEA User Guide page <http://geoscienceaustralia.github.io/digitalearthau/index.html>`_.
 
